@@ -1,2 +1,13 @@
-#!/bin/bash
-ALX School
+echo "ALX School"
+
+/uo "ALX School"
+r/bin/bash: line 1: q: command not found
+
+
+
+
+
+
+
+
+
